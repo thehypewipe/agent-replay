@@ -100,7 +100,7 @@ pip install agent-replay
 Or install from source:
 
 ```bash
-git clone https://github.com/yourusername/agent-replay.git
+git clone https://github.com/thehypewipe/agent-replay.git
 cd agent-replay
 pip install -e .
 ```
