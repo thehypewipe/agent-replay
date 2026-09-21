@@ -48,7 +48,7 @@ print(f"Cost: ${result['cost']:.4f}")
 - Run replay and comparison
 - CSV export for analysis
 
-**GitHub:** https://github.com/YOUR_USERNAME/agent-replay
+**GitHub:** https://github.com/thehypewipe/agent-replay
 
 **Install:**
 ```bash
@@ -101,7 +101,7 @@ Then:
     agent-replay replay --run-id abc123
     agent-replay diff --run1 abc123 --run2 def456
 
-GitHub: https://github.com/YOUR_USERNAME/agent-replay
+GitHub: https://github.com/thehypewipe/agent-replay
 Install: pip install agent-replay
 
 Built this because LangSmith is cloud-locked and I wanted something local-first. Feedback appreciated!
@@ -171,7 +171,7 @@ Supports:
 
 Install: pip install agent-replay
 
-GitHub ⭐: https://github.com/YOUR_USERNAME/agent-replay
+GitHub ⭐: https://github.com/thehypewipe/agent-replay
 ```
 
 ---
@@ -215,7 +215,7 @@ Built for developers working with:
 Open source, MIT licensed, ready to use:
 pip install agent-replay
 
-GitHub: https://github.com/YOUR_USERNAME/agent-replay
+GitHub: https://github.com/thehypewipe/agent-replay
 
 #AI #MachineLearning #OpenSource #Python #LLM #AgentDebugging
 ```

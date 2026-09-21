@@ -10,7 +10,7 @@ setup(
     description="Local-first agent debugging for the 'it worked yesterday' moments",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/agent-replay",
+    url="https://github.com/thehypewipe/agent-replay",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",

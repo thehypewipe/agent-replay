@@ -6,7 +6,7 @@ Thanks for your interest in contributing! Here's how to get started.
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/agent-replay.git
+git clone https://github.com/thehypewipe/agent-replay.git
 cd agent-replay
 ```
 

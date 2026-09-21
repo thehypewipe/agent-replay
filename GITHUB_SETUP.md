@@ -18,8 +18,8 @@ After creating the repository on GitHub, run these commands in your terminal:
 ```bash
 cd "C:\Users\lenovo\Downloads\GITHUB STARS.IO\agent-replay"
 
-# Add the remote (replace YOUR_USERNAME with your GitHub username)
-git remote add origin https://github.com/YOUR_USERNAME/agent-replay.git
+# Add the remote
+git remote add origin https://github.com/thehypewipe/agent-replay.git
 
 # Verify the remote was added
 git remote -v
@@ -111,12 +111,12 @@ pip install agent-replay
 Or from source:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/agent-replay.git
+git clone https://github.com/thehypewipe/agent-replay.git
 cd agent-replay
 pip install -e .
 ```
 
-See the [README](https://github.com/YOUR_USERNAME/agent-replay#readme) for full documentation.
+See the [README](https://github.com/thehypewipe/agent-replay#readme) for full documentation.
 ```
 
 5. Click "Publish release"
@@ -128,7 +128,7 @@ Edit your README.md on GitHub and add these badges at the top (after the first h
 ```markdown
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/agent-replay?style=social)](https://github.com/YOUR_USERNAME/agent-replay/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/thehypewipe/agent-replay?style=social)](https://github.com/thehypewipe/agent-replay/stargazers)
 ```
 
 ## Step 6: Verify Everything Works
@@ -136,7 +136,7 @@ Edit your README.md on GitHub and add these badges at the top (after the first h
 ```bash
 # Clone to a fresh directory to test
 cd /tmp
-git clone https://github.com/YOUR_USERNAME/agent-replay.git
+git clone https://github.com/thehypewipe/agent-replay.git
 cd agent-replay
 
 # Install and test
@@ -148,7 +148,7 @@ python example.py
 
 ## Repository Created! ✅
 
-Your repository is now live at: `https://github.com/YOUR_USERNAME/agent-replay`
+Your repository is now live at: `https://github.com/thehypewipe/agent-replay`
 
 ### Next Steps:
 1. **Launch on Reddit** - r/MachineLearning, r/LangChain, r/LocalLLaMA
