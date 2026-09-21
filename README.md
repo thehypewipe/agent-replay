@@ -1,5 +1,9 @@
 # Agent Replay 🔄
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![GitHub Stars](https://img.shields.io/github/stars/thehypewipe/agent-replay?style=social)](https://github.com/thehypewipe/agent-replay/stargazers)
+
 > **Local-first agent debugging for the "it worked yesterday" moments**
 
 Stop debugging non-deterministic AI agent failures in the dark. Agent Replay logs every agent run locally, shows you what changed, and lets you replay the exact same conversation to catch regressions.
